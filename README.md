@@ -2,7 +2,7 @@
 
 
 
-![mail](https://github.com/deveper/MailAyristirma/blob/master/MailAyristirma.png)
+![mail](https://github.com/deveper/MailAyristirma/raw/master/MailAyristirma.png)
 
 
 ## Kullanım şekli
