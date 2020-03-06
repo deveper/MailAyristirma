@@ -2,7 +2,7 @@
 
 
 
-![mail](https://user-images.githubusercontent.com/13505194/68115729-265e9780-ff0a-11e9-81ae-51eaa39c21d2.png)
+![mail](https://github.com/deveper/MailAyristirma/blob/master/MailAyristirma.png)
 
 
 ## Kullanım şekli
