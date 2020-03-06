@@ -76,7 +76,7 @@ namespace WFA_MailAyristirma
                         break;
                     case "gmail.net":
                         int index5 = item.IndexOf('@');
-                        lstGmailNet.Items.Add(item.Remove(index2@hotmail.com5));
+                        lstGmailNet.Items.Add(item.Remove(index5));
                         int hotmail5 = lstGmailNet.Items.Count;
                         lbl6.Text = hotmail5.ToString();
                         break;
@@ -85,6 +85,7 @@ namespace WFA_MailAyristirma
                         lstCopKutusu.Items.Add(item.Remove(index6));
                         break;
                 }
+
                 //if (item.EndsWith("hotmail.com"))
                 //{
 
